@@ -2,6 +2,6 @@ package pa;
 
 public class test {
 	public static void main(String[] args) {
-		System.out.println("Hello, World!!編集。local");
+		System.out.println("Hello, World!!編集。locala");
 	}
 }
